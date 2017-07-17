@@ -1,0 +1,13 @@
+.footer-Change{
+    border-top:none;
+}
+.modal-body b{
+
+    display: none;
+    position: absolute;
+    font-size: 12px;
+    font-style: normal;
+    color: red;
+    width: 300px;
+    height: 10px;
+}
